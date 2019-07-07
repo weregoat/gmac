@@ -1,5 +1,5 @@
 ## Interpretation
-There was some, in my opinion, contradiction in the description; it has a few references to REST API, but at the same time it looked clear to me that most of the other requirements were for a command line program (which is, of course, not REST).
+There was some, in my opinion, contradiction in the homework description; it has a few references to REST API, but at the same time it looked clear to me that most of the other requirements were for a command line program (which is, of course, not REST).
 
 It would also made little sense to me to write an REST API interface to query another API interface in this case (although I could think of scenarios were such a thing may be sensible).
 
