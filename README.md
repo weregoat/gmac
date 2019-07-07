@@ -5,6 +5,9 @@ It would also made little sense to me to write an REST API interface to query an
 
 So I decided to ignore the REST references and work on a command line utility.
 
+## Reference
+Macaddress.io [API documentation](https://macaddress.io/api/documentation) 
+
 ## Build
 It's a golang program. 
 For simplicity I avoided external dependencies, so it should enough to run the following command from the directory with the source code:
